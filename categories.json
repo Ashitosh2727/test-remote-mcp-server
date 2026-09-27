@@ -1,0 +1,56 @@
+{
+    "Food": [
+      "Restaurant",
+      "Groceries",
+      "Snacks",
+      "Coffee",
+      "Other"
+    ],
+    "Transport": [
+      "Fuel",
+      "Bus",
+      "Train",
+      "Taxi",
+      "Other"
+    ],
+    "Shopping": [
+      "Clothes",
+      "Electronics",
+      "Accessories",
+      "Other"
+    ],
+    "Bills": [
+      "Electricity",
+      "Internet",
+      "Mobile",
+      "Rent",
+      "Other"
+    ],
+    "Entertainment": [
+      "Movies",
+      "Games",
+      "Subscriptions",
+      "Other"
+    ],
+    "Health": [
+      "Medicine",
+      "Doctor",
+      "Fitness",
+      "Other"
+    ],
+    "Education": [
+      "Courses",
+      "Books",
+      "Training",
+      "Other"
+    ],
+    "Travel": [
+      "Hotel",
+      "Flight",
+      "Food",
+      "Other"
+    ],
+    "Other": [
+      "Miscellaneous"
+    ]
+  }
